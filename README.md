@@ -29,10 +29,13 @@
   <img src="http://img.shields.io/badge/-CMake-125C8C?style=flat-square&logo=CMake&logoColor=ffffff">
   <img src="http://img.shields.io/badge/-GCC-F0BE4B?style=flat-square&logo=GCC&logoColor=ffffff">
   <img src="http://img.shields.io/badge/-Docker-3FBFF7?style=flat-square&logo=Docker&logoColor=ffffff">
+  <img src="http://img.shields.io/badge/-VHDL-87818B?style=flat-square&logo=VHDL&logoColor=ffffff">
     
-  
-  
 </p>
+
+### Langauges Used in my repo Projects
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layalalzaydi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)
 
 
 
